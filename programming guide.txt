@@ -1,1 +1,3 @@
 programming your first C++ application
+1.invoke the 'new project wizard'via the menu option file,new project
+2.under visual c++,choose the type win32 console application and name your project hello.click ok
