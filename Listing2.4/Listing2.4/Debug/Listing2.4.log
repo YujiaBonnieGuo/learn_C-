@@ -1,0 +1,3 @@
+﻿  Listing2.4.cpp
+e:\git\learn_cpp\listing2.4\listing2.4\listing2.4.cpp(23): error C2084: function 'int DemoConsoleOutput(void)' already has a body
+  e:\git\learn_cpp\listing2.4\listing2.4\listing2.4.cpp(16): note: see previous definition of 'DemoConsoleOutput'
