@@ -21,6 +21,7 @@
 
     char findTheDifference(string s, string t) {
         vector<int> vec(26,0);
+        //vector<int> vec(26,0):定义26个整型元素的向量，并赋初始值为0
         for(int i = 0;i<s.size();i++){
             vec[s[i]-'a']++;
         }
